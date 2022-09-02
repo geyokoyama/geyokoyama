@@ -10,6 +10,7 @@ I enjoy playing PC games, reading web novels, watching YouTube videos, and playi
 * Job hunting for a web development role
 * Redesigning my [personal website](https://geyokoyama.github.io/) using Gatsby and Netlify [here](https://www.geyokoyama.com/)
 * Starting a blog and attempting to create some habits to write regularly
+* Converting my neovim configuration written in vimscript into lua
 
 ## Stuff I want to do someday
 * Go on a food tour around the world 🍖
