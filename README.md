@@ -1,15 +1,14 @@
 # Hey there 👋 I'm George
 
-[Website](https://geyokoyama.github.io/) [LinkedIn](https://www.linkedin.com/in/georgeyokoyama/)
+[Website](https://www.geyokoyama.com/) [LinkedIn](https://www.linkedin.com/in/georgeyokoyama/)
 
 Hey there 👋 I'm George. I'm an aspiring web developer currently job seeking while living and working in Dublin, California.
 
 I enjoy playing PC games, reading web novels, watching YouTube videos, and playing the violin when inspired.
 
 ## Stuff I'm doing
-* Job hunting for a web development role
-* Redesigning my [personal website](https://geyokoyama.github.io/) using Gatsby and Netlify [here](https://www.geyokoyama.com/)
-* Starting a blog and attempting to create some habits to write regularly
+* Job hunting for a web application development role
+* Starting a [blog](https://dev.to/geyokoyama) in an attempt to create the habit of writing regularly
 * Converting my neovim configuration written in vimscript into lua
 
 ## Stuff I want to do someday
