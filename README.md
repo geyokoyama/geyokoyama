@@ -1,6 +1,6 @@
 # Hey there 👋 I'm George
 
-[Website](https://www.geyokoyama.com/) [LinkedIn](https://www.linkedin.com/in/georgeyokoyama/)
+[Website](https://www.geyokoyama.com/) | [LinkedIn](https://www.linkedin.com/in/georgeyokoyama/)
 
 Hey there 👋 I'm George. I'm an aspiring web developer currently job seeking while living and working in Dublin, California.
 
